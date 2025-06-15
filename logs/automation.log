@@ -1,0 +1,563 @@
+22:39:52.903 [main] INFO  org.test.LoginTest.TC1(LoginTest.java:24)oggger - URL Open Please enter login details
+22:39:55.435 [main] INFO  org.test.LoginTest.TC1(LoginTest.java:27)oggger - Login successfully
+22:39:57.371 [main] INFO  org.test.LoginTest.TC2(LoginTest.java:38)oggger - URL Open Please enter login details
+22:39:57.815 [main] INFO  org.test.LoginTest.TC2(LoginTest.java:41)oggger - Tried login with locked out user
+22:39:59.690 [main] INFO  org.test.LoginTest.TC3(LoginTest.java:52)oggger - URL Open Please enter login details
+22:40:02.031 [main] INFO  org.test.LoginTest.TC3(LoginTest.java:55)oggger - Login details are not correct
+22:40:04.047 [main] INFO  org.test.CartTest.TC4(CartTest.java:21)oggger - URL Open Please enter login details
+22:40:06.690 [main] INFO  org.test.CartTest.TC4(CartTest.java:24)oggger - Login successfully
+22:40:06.692 [main] INFO  org.test.CartTest.TC4(CartTest.java:27)oggger - Add Items to cart
+22:40:08.858 [main] INFO  org.test.CartTest.TC4(CartTest.java:30)oggger - Go to Cart
+22:40:09.051 [main] INFO  org.test.CartTest.TC4(CartTest.java:32)oggger - Item is available in the cart
+22:40:12.350 [main] INFO  org.test.CartTest.TC5(CartTest.java:48)oggger - URL Open Please enter login details
+22:40:19.118 [main] INFO  org.test.CheckoutTest.TC6(CheckoutTest.java:27)oggger - URL Open Please enter login details
+22:40:24.284 [main] INFO  org.test.CheckoutTest.TC6(CheckoutTest.java:31)oggger - Add Items to cart
+22:40:24.284 [main] INFO  org.test.CheckoutTest.TC6(CheckoutTest.java:33)oggger - Go to Cart
+22:40:24.510 [main] INFO  org.test.CheckoutTest.TC6(CheckoutTest.java:36)oggger - Fill the checkout info
+22:40:25.326 [main] INFO  org.test.CheckoutTest.TC6(CheckoutTest.java:39)oggger - Chekout finished
+22:40:25.376 [main] INFO  org.test.CheckoutTest.TC6(CheckoutTest.java:41)oggger - Checkout Confirmed
+22:40:27.616 [main] INFO  org.test.CheckoutTest.TC7(CheckoutTest.java:54)oggger - URL Open Please enter login details
+22:40:30.178 [main] INFO  org.test.CheckoutTest.TC7(CheckoutTest.java:58)oggger - Add Items to cart
+22:40:32.319 [main] INFO  org.test.CheckoutTest.TC7(CheckoutTest.java:62)oggger - Go to Cart
+22:40:35.388 [main] INFO  org.test.ProductTest.TC8(ProductTest.java:21)oggger - URL Open Please enter login details
+22:40:37.812 [main] INFO  org.test.ProductTest.TC8(ProductTest.java:24)oggger - Login successfully
+22:40:44.340 [main] INFO  org.test.ProductTest.TC8(ProductTest.java:28)oggger - Product Sorted
+22:40:46.948 [main] INFO  org.test.MenuTest.TC9(MenuTest.java:25)oggger - URL Open Please enter login details
+22:40:49.516 [main] INFO  org.test.MenuTest.TC9(MenuTest.java:28)oggger - Login successfully
+22:40:53.944 [main] INFO  org.test.MenuTest.TC9(MenuTest.java:31)oggger - Logout button work properly
+23:21:44.005 [main] INFO  org.test.MenuTest.TC9(MenuTest.java:25)oggger - URL Open Please enter login details
+23:21:46.542 [main] INFO  org.test.MenuTest.TC9(MenuTest.java:28)oggger - Login successfully
+00:00:37.832 [main] INFO  org.test.MenuTest.TC9(MenuTest.java:25)oggger - URL Open Please enter login details
+00:00:40.232 [main] INFO  org.test.MenuTest.TC9(MenuTest.java:28)oggger - Login successfully
+09:59:37.139 [main] INFO  org.test.MenuTest.TC9(MenuTest.java:25)oggger - URL Open Please enter login details
+09:59:39.584 [main] INFO  org.test.MenuTest.TC9(MenuTest.java:28)oggger - Login successfully
+09:59:44.000 [main] INFO  org.test.MenuTest.TC9(MenuTest.java:31)oggger - Logout button work properly
+10:39:35.532 [main] WARN  org.testng.log4testng.Logger.warn(Logger.java:133)oggger - Detected a static method [org.test.Base.TearDown()]. Static configuration methods can cause  unexpected behavior.
+10:39:35.538 [main] WARN  org.testng.log4testng.Logger.warn(Logger.java:133)oggger - Detected a static method [org.test.Base.TearDown()]. Static configuration methods can cause  unexpected behavior.
+10:39:35.541 [main] WARN  org.testng.log4testng.Logger.warn(Logger.java:133)oggger - Detected a static method [org.test.Base.TearDown()]. Static configuration methods can cause  unexpected behavior.
+10:39:35.543 [main] WARN  org.testng.log4testng.Logger.warn(Logger.java:133)oggger - Detected a static method [org.test.Base.TearDown()]. Static configuration methods can cause  unexpected behavior.
+10:39:35.545 [main] WARN  org.testng.log4testng.Logger.warn(Logger.java:133)oggger - Detected a static method [org.test.Base.TearDown()]. Static configuration methods can cause  unexpected behavior.
+10:39:35.564 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  C:\Users\DELL\eclipse-workspace\SauceDemoProject\testng.xml
+
+10:39:40.090 [main] INFO  org.test.LoginTest.TC1(LoginTest.java:24)oggger - URL Open Please enter login details
+10:39:42.418 [main] INFO  org.test.LoginTest.TC1(LoginTest.java:27)oggger - Login successfully
+10:39:44.904 [main] INFO  org.test.LoginTest.TC2(LoginTest.java:38)oggger - URL Open Please enter login details
+10:39:45.314 [main] INFO  org.test.LoginTest.TC2(LoginTest.java:41)oggger - Tried login with locked out user
+10:39:47.409 [main] INFO  org.test.LoginTest.TC3(LoginTest.java:52)oggger - URL Open Please enter login details
+10:39:49.890 [main] INFO  org.test.LoginTest.TC3(LoginTest.java:55)oggger - Login details are not correct
+10:39:52.212 [main] INFO  org.test.CartTest.TC4(CartTest.java:21)oggger - URL Open Please enter login details
+10:39:54.712 [main] INFO  org.test.CartTest.TC4(CartTest.java:24)oggger - Login successfully
+10:39:54.728 [main] INFO  org.test.CartTest.TC4(CartTest.java:27)oggger - Add Items to cart
+10:39:56.862 [main] INFO  org.test.CartTest.TC4(CartTest.java:30)oggger - Go to Cart
+10:39:57.036 [main] INFO  org.test.CartTest.TC4(CartTest.java:32)oggger - Item is available in the cart
+10:39:59.115 [main] INFO  org.test.CartTest.TC5(CartTest.java:48)oggger - URL Open Please enter login details
+10:40:05.257 [main] INFO  org.test.ProductTest.TC8(ProductTest.java:21)oggger - URL Open Please enter login details
+10:40:07.542 [main] INFO  org.test.ProductTest.TC8(ProductTest.java:24)oggger - Login successfully
+10:40:13.870 [main] INFO  org.test.ProductTest.TC8(ProductTest.java:28)oggger - Product Sorted
+10:40:15.639 [main] INFO  org.test.MenuTest.TC9(MenuTest.java:25)oggger - URL Open Please enter login details
+10:40:18.020 [main] INFO  org.test.MenuTest.TC9(MenuTest.java:28)oggger - Login successfully
+10:40:22.260 [main] INFO  org.test.MenuTest.TC9(MenuTest.java:31)oggger - Logout button work properly
+10:40:24.032 [main] INFO  org.test.CheckoutTest.TC6(CheckoutTest.java:27)oggger - URL Open Please enter login details
+10:40:28.430 [main] INFO  org.test.CheckoutTest.TC6(CheckoutTest.java:31)oggger - Add Items to cart
+10:40:28.430 [main] INFO  org.test.CheckoutTest.TC6(CheckoutTest.java:33)oggger - Go to Cart
+10:40:28.567 [main] INFO  org.test.CheckoutTest.TC6(CheckoutTest.java:36)oggger - Fill the checkout info
+10:40:29.097 [main] INFO  org.test.CheckoutTest.TC6(CheckoutTest.java:39)oggger - Chekout finished
+10:40:29.131 [main] INFO  org.test.CheckoutTest.TC6(CheckoutTest.java:41)oggger - Checkout Confirmed
+10:40:30.933 [main] INFO  org.test.CheckoutTest.TC7(CheckoutTest.java:54)oggger - URL Open Please enter login details
+10:40:33.249 [main] INFO  org.test.CheckoutTest.TC7(CheckoutTest.java:58)oggger - Add Items to cart
+10:40:35.338 [main] INFO  org.test.CheckoutTest.TC7(CheckoutTest.java:62)oggger - Go to Cart
+22:31:21.661 [main] WARN  org.testng.log4testng.Logger.warn(Logger.java:133)oggger - Detected a static method [org.test.Base.TearDown()]. Static configuration methods can cause  unexpected behavior.
+22:31:21.674 [main] WARN  org.testng.log4testng.Logger.warn(Logger.java:133)oggger - Detected a static method [org.test.Base.TearDown()]. Static configuration methods can cause  unexpected behavior.
+22:31:21.680 [main] WARN  org.testng.log4testng.Logger.warn(Logger.java:133)oggger - Detected a static method [org.test.Base.TearDown()]. Static configuration methods can cause  unexpected behavior.
+22:31:21.689 [main] WARN  org.testng.log4testng.Logger.warn(Logger.java:133)oggger - Detected a static method [org.test.Base.TearDown()]. Static configuration methods can cause  unexpected behavior.
+22:31:21.701 [main] WARN  org.testng.log4testng.Logger.warn(Logger.java:133)oggger - Detected a static method [org.test.Base.TearDown()]. Static configuration methods can cause  unexpected behavior.
+22:31:21.730 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  C:\Users\DELL\eclipse-workspace\SauceDemoProject\testng.xml
+
+22:31:25.313 [main] INFO  org.test.LoginTest.TC1(LoginTest.java:24)oggger - URL Open Please enter login details
+22:31:27.872 [main] INFO  org.test.LoginTest.TC1(LoginTest.java:27)oggger - Login successfully
+22:31:30.183 [main] INFO  org.test.LoginTest.TC2(LoginTest.java:38)oggger - URL Open Please enter login details
+22:31:30.724 [main] INFO  org.test.LoginTest.TC2(LoginTest.java:41)oggger - Tried login with locked out user
+22:31:33.195 [main] INFO  org.test.LoginTest.TC3(LoginTest.java:52)oggger - URL Open Please enter login details
+22:31:35.614 [main] INFO  org.test.LoginTest.TC3(LoginTest.java:55)oggger - Login details are not correct
+22:31:37.761 [main] INFO  org.test.CartTest.TC4(CartTest.java:21)oggger - URL Open Please enter login details
+22:31:40.212 [main] INFO  org.test.CartTest.TC4(CartTest.java:24)oggger - Login successfully
+22:31:40.217 [main] INFO  org.test.CartTest.TC4(CartTest.java:27)oggger - Add Items to cart
+22:31:42.359 [main] INFO  org.test.CartTest.TC4(CartTest.java:30)oggger - Go to Cart
+22:31:42.518 [main] INFO  org.test.CartTest.TC4(CartTest.java:32)oggger - Item is available in the cart
+22:31:44.777 [main] INFO  org.test.CartTest.TC5(CartTest.java:48)oggger - URL Open Please enter login details
+22:31:51.651 [main] INFO  org.test.ProductTest.TC8(ProductTest.java:21)oggger - URL Open Please enter login details
+22:31:54.163 [main] INFO  org.test.ProductTest.TC8(ProductTest.java:24)oggger - Login successfully
+22:32:00.467 [main] INFO  org.test.ProductTest.TC8(ProductTest.java:28)oggger - Product Sorted
+22:32:02.835 [main] INFO  org.test.MenuTest.TC9(MenuTest.java:25)oggger - URL Open Please enter login details
+22:32:05.276 [main] INFO  org.test.MenuTest.TC9(MenuTest.java:28)oggger - Login successfully
+22:32:09.552 [main] INFO  org.test.MenuTest.TC9(MenuTest.java:31)oggger - Logout button work properly
+22:32:11.859 [main] INFO  org.test.CheckoutTest.TC6(CheckoutTest.java:27)oggger - URL Open Please enter login details
+22:32:16.528 [main] INFO  org.test.CheckoutTest.TC6(CheckoutTest.java:31)oggger - Add Items to cart
+22:32:16.528 [main] INFO  org.test.CheckoutTest.TC6(CheckoutTest.java:33)oggger - Go to Cart
+22:32:16.742 [main] INFO  org.test.CheckoutTest.TC6(CheckoutTest.java:36)oggger - Fill the checkout info
+22:32:17.597 [main] INFO  org.test.CheckoutTest.TC6(CheckoutTest.java:39)oggger - Chekout finished
+22:32:17.617 [main] INFO  org.test.CheckoutTest.TC6(CheckoutTest.java:41)oggger - Checkout Confirmed
+22:32:19.962 [main] INFO  org.test.CheckoutTest.TC7(CheckoutTest.java:54)oggger - URL Open Please enter login details
+22:32:22.389 [main] INFO  org.test.CheckoutTest.TC7(CheckoutTest.java:58)oggger - Add Items to cart
+22:32:24.528 [main] INFO  org.test.CheckoutTest.TC7(CheckoutTest.java:62)oggger - Go to Cart
+22:34:07.006 [main] WARN  org.testng.log4testng.Logger.warn(Logger.java:133)oggger - Detected a static method [org.test.Base.TearDown()]. Static configuration methods can cause  unexpected behavior.
+22:34:07.015 [main] WARN  org.testng.log4testng.Logger.warn(Logger.java:133)oggger - Detected a static method [org.test.Base.TearDown()]. Static configuration methods can cause  unexpected behavior.
+22:34:07.019 [main] WARN  org.testng.log4testng.Logger.warn(Logger.java:133)oggger - Detected a static method [org.test.Base.TearDown()]. Static configuration methods can cause  unexpected behavior.
+22:34:07.023 [main] WARN  org.testng.log4testng.Logger.warn(Logger.java:133)oggger - Detected a static method [org.test.Base.TearDown()]. Static configuration methods can cause  unexpected behavior.
+22:34:07.028 [main] WARN  org.testng.log4testng.Logger.warn(Logger.java:133)oggger - Detected a static method [org.test.Base.TearDown()]. Static configuration methods can cause  unexpected behavior.
+22:34:07.045 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  C:\Users\DELL\eclipse-workspace\SauceDemoProject\testng.xml
+
+22:34:09.620 [main] INFO  org.test.LoginTest.TC1(LoginTest.java:24)oggger - URL Open Please enter login details
+22:34:12.206 [main] INFO  org.test.LoginTest.TC1(LoginTest.java:27)oggger - Login successfully
+22:34:14.568 [main] INFO  org.test.LoginTest.TC2(LoginTest.java:38)oggger - URL Open Please enter login details
+22:34:15.119 [main] INFO  org.test.LoginTest.TC2(LoginTest.java:41)oggger - Tried login with locked out user
+22:34:17.325 [main] INFO  org.test.LoginTest.TC3(LoginTest.java:52)oggger - URL Open Please enter login details
+22:34:19.761 [main] INFO  org.test.LoginTest.TC3(LoginTest.java:55)oggger - Login details are not correct
+22:34:22.126 [main] INFO  org.test.CartTest.TC4(CartTest.java:21)oggger - URL Open Please enter login details
+22:34:24.725 [main] INFO  org.test.CartTest.TC4(CartTest.java:24)oggger - Login successfully
+22:34:24.736 [main] INFO  org.test.CartTest.TC4(CartTest.java:27)oggger - Add Items to cart
+22:34:26.864 [main] INFO  org.test.CartTest.TC4(CartTest.java:30)oggger - Go to Cart
+22:34:27.031 [main] INFO  org.test.CartTest.TC4(CartTest.java:32)oggger - Item is available in the cart
+22:34:29.263 [main] INFO  org.test.CartTest.TC5(CartTest.java:48)oggger - URL Open Please enter login details
+22:34:35.959 [main] INFO  org.test.ProductTest.TC8(ProductTest.java:21)oggger - URL Open Please enter login details
+22:34:38.413 [main] INFO  org.test.ProductTest.TC8(ProductTest.java:24)oggger - Login successfully
+22:34:44.814 [main] INFO  org.test.ProductTest.TC8(ProductTest.java:28)oggger - Product Sorted
+22:34:47.102 [main] INFO  org.test.MenuTest.TC9(MenuTest.java:25)oggger - URL Open Please enter login details
+22:34:49.573 [main] INFO  org.test.MenuTest.TC9(MenuTest.java:28)oggger - Login successfully
+22:34:53.911 [main] INFO  org.test.MenuTest.TC9(MenuTest.java:31)oggger - Logout button work properly
+22:34:56.096 [main] INFO  org.test.CheckoutTest.TC6(CheckoutTest.java:27)oggger - URL Open Please enter login details
+22:35:00.734 [main] INFO  org.test.CheckoutTest.TC6(CheckoutTest.java:31)oggger - Add Items to cart
+22:35:00.734 [main] INFO  org.test.CheckoutTest.TC6(CheckoutTest.java:33)oggger - Go to Cart
+22:35:00.900 [main] INFO  org.test.CheckoutTest.TC6(CheckoutTest.java:36)oggger - Fill the checkout info
+22:35:01.777 [main] INFO  org.test.CheckoutTest.TC6(CheckoutTest.java:39)oggger - Chekout finished
+22:35:01.822 [main] INFO  org.test.CheckoutTest.TC6(CheckoutTest.java:41)oggger - Checkout Confirmed
+22:35:04.004 [main] INFO  org.test.CheckoutTest.TC7(CheckoutTest.java:54)oggger - URL Open Please enter login details
+22:35:06.632 [main] INFO  org.test.CheckoutTest.TC7(CheckoutTest.java:58)oggger - Add Items to cart
+22:35:08.779 [main] INFO  org.test.CheckoutTest.TC7(CheckoutTest.java:62)oggger - Go to Cart
+22:41:18.454 [main] WARN  org.testng.log4testng.Logger.warn(Logger.java:133)oggger - Detected a static method [org.test.Base.TearDown()]. Static configuration methods can cause  unexpected behavior.
+22:41:18.463 [main] WARN  org.testng.log4testng.Logger.warn(Logger.java:133)oggger - Detected a static method [org.test.Base.TearDown()]. Static configuration methods can cause  unexpected behavior.
+22:41:18.466 [main] WARN  org.testng.log4testng.Logger.warn(Logger.java:133)oggger - Detected a static method [org.test.Base.TearDown()]. Static configuration methods can cause  unexpected behavior.
+22:41:18.473 [main] WARN  org.testng.log4testng.Logger.warn(Logger.java:133)oggger - Detected a static method [org.test.Base.TearDown()]. Static configuration methods can cause  unexpected behavior.
+22:41:18.477 [main] WARN  org.testng.log4testng.Logger.warn(Logger.java:133)oggger - Detected a static method [org.test.Base.TearDown()]. Static configuration methods can cause  unexpected behavior.
+22:41:18.495 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  C:\Users\DELL\eclipse-workspace\SauceDemoProject\testng.xml
+
+22:41:21.174 [main] INFO  org.test.LoginTest.TC1(LoginTest.java:24)oggger - URL Open Please enter login details
+22:41:23.663 [main] INFO  org.test.LoginTest.TC1(LoginTest.java:27)oggger - Login successfully
+22:41:25.879 [main] INFO  org.test.LoginTest.TC2(LoginTest.java:38)oggger - URL Open Please enter login details
+22:41:26.395 [main] INFO  org.test.LoginTest.TC2(LoginTest.java:41)oggger - Tried login with locked out user
+22:41:28.573 [main] INFO  org.test.LoginTest.TC3(LoginTest.java:52)oggger - URL Open Please enter login details
+22:41:30.959 [main] INFO  org.test.LoginTest.TC3(LoginTest.java:55)oggger - Login details are not correct
+22:41:33.042 [main] INFO  org.test.CartTest.TC4(CartTest.java:21)oggger - URL Open Please enter login details
+22:41:35.603 [main] INFO  org.test.CartTest.TC4(CartTest.java:24)oggger - Login successfully
+22:41:35.603 [main] INFO  org.test.CartTest.TC4(CartTest.java:27)oggger - Add Items to cart
+22:41:37.752 [main] INFO  org.test.CartTest.TC4(CartTest.java:30)oggger - Go to Cart
+22:41:37.921 [main] INFO  org.test.CartTest.TC4(CartTest.java:32)oggger - Item is available in the cart
+22:41:40.115 [main] INFO  org.test.CartTest.TC5(CartTest.java:48)oggger - URL Open Please enter login details
+22:41:46.892 [main] INFO  org.test.ProductTest.TC8(ProductTest.java:21)oggger - URL Open Please enter login details
+22:41:49.379 [main] INFO  org.test.ProductTest.TC8(ProductTest.java:24)oggger - Login successfully
+22:41:55.735 [main] INFO  org.test.ProductTest.TC8(ProductTest.java:28)oggger - Product Sorted
+22:41:57.891 [main] INFO  org.test.MenuTest.TC9(MenuTest.java:25)oggger - URL Open Please enter login details
+22:42:00.488 [main] INFO  org.test.MenuTest.TC9(MenuTest.java:28)oggger - Login successfully
+22:42:04.830 [main] INFO  org.test.MenuTest.TC9(MenuTest.java:31)oggger - Logout button work properly
+22:42:06.925 [main] INFO  org.test.CheckoutTest.TC6(CheckoutTest.java:27)oggger - URL Open Please enter login details
+22:42:11.547 [main] INFO  org.test.CheckoutTest.TC6(CheckoutTest.java:31)oggger - Add Items to cart
+22:42:11.547 [main] INFO  org.test.CheckoutTest.TC6(CheckoutTest.java:33)oggger - Go to Cart
+22:42:11.767 [main] INFO  org.test.CheckoutTest.TC6(CheckoutTest.java:36)oggger - Fill the checkout info
+22:42:12.615 [main] INFO  org.test.CheckoutTest.TC6(CheckoutTest.java:39)oggger - Chekout finished
+22:42:12.648 [main] INFO  org.test.CheckoutTest.TC6(CheckoutTest.java:41)oggger - Checkout Confirmed
+22:42:15.012 [main] INFO  org.test.CheckoutTest.TC7(CheckoutTest.java:54)oggger - URL Open Please enter login details
+22:42:17.519 [main] INFO  org.test.CheckoutTest.TC7(CheckoutTest.java:58)oggger - Add Items to cart
+22:42:19.659 [main] INFO  org.test.CheckoutTest.TC7(CheckoutTest.java:62)oggger - Go to Cart
+22:44:24.186 [main] WARN  org.testng.log4testng.Logger.warn(Logger.java:133)oggger - Detected a static method [org.test.Base.TearDown()]. Static configuration methods can cause  unexpected behavior.
+22:44:24.197 [main] WARN  org.testng.log4testng.Logger.warn(Logger.java:133)oggger - Detected a static method [org.test.Base.TearDown()]. Static configuration methods can cause  unexpected behavior.
+22:44:24.202 [main] WARN  org.testng.log4testng.Logger.warn(Logger.java:133)oggger - Detected a static method [org.test.Base.TearDown()]. Static configuration methods can cause  unexpected behavior.
+22:44:24.207 [main] WARN  org.testng.log4testng.Logger.warn(Logger.java:133)oggger - Detected a static method [org.test.Base.TearDown()]. Static configuration methods can cause  unexpected behavior.
+22:44:24.215 [main] WARN  org.testng.log4testng.Logger.warn(Logger.java:133)oggger - Detected a static method [org.test.Base.TearDown()]. Static configuration methods can cause  unexpected behavior.
+22:44:24.234 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  C:\Users\DELL\eclipse-workspace\SauceDemoProject\testng.xml
+
+22:44:27.260 [main] INFO  org.test.LoginTest.TC1(LoginTest.java:24)oggger - URL Open Please enter login details
+22:44:29.684 [main] INFO  org.test.LoginTest.TC1(LoginTest.java:27)oggger - Login successfully
+22:44:31.802 [main] INFO  org.test.LoginTest.TC2(LoginTest.java:38)oggger - URL Open Please enter login details
+22:44:32.293 [main] INFO  org.test.LoginTest.TC2(LoginTest.java:41)oggger - Tried login with locked out user
+22:44:34.317 [main] INFO  org.test.LoginTest.TC3(LoginTest.java:52)oggger - URL Open Please enter login details
+22:44:36.717 [main] INFO  org.test.LoginTest.TC3(LoginTest.java:55)oggger - Login details are not correct
+22:44:38.801 [main] INFO  org.test.CartTest.TC4(CartTest.java:21)oggger - URL Open Please enter login details
+22:44:41.274 [main] INFO  org.test.CartTest.TC4(CartTest.java:24)oggger - Login successfully
+22:44:41.274 [main] INFO  org.test.CartTest.TC4(CartTest.java:27)oggger - Add Items to cart
+22:44:43.443 [main] INFO  org.test.CartTest.TC4(CartTest.java:30)oggger - Go to Cart
+22:44:43.620 [main] INFO  org.test.CartTest.TC4(CartTest.java:32)oggger - Item is available in the cart
+22:44:45.806 [main] INFO  org.test.CartTest.TC5(CartTest.java:48)oggger - URL Open Please enter login details
+22:44:52.680 [main] INFO  org.test.ProductTest.TC8(ProductTest.java:21)oggger - URL Open Please enter login details
+22:44:55.154 [main] INFO  org.test.ProductTest.TC8(ProductTest.java:24)oggger - Login successfully
+22:45:01.482 [main] INFO  org.test.ProductTest.TC8(ProductTest.java:28)oggger - Product Sorted
+22:45:03.587 [main] INFO  org.test.MenuTest.TC9(MenuTest.java:25)oggger - URL Open Please enter login details
+22:45:06.123 [main] INFO  org.test.MenuTest.TC9(MenuTest.java:28)oggger - Login successfully
+22:45:10.444 [main] INFO  org.test.MenuTest.TC9(MenuTest.java:31)oggger - Logout button work properly
+22:45:12.601 [main] INFO  org.test.CheckoutTest.TC6(CheckoutTest.java:27)oggger - URL Open Please enter login details
+22:45:17.356 [main] INFO  org.test.CheckoutTest.TC6(CheckoutTest.java:31)oggger - Add Items to cart
+22:45:17.356 [main] INFO  org.test.CheckoutTest.TC6(CheckoutTest.java:33)oggger - Go to Cart
+22:45:17.530 [main] INFO  org.test.CheckoutTest.TC6(CheckoutTest.java:36)oggger - Fill the checkout info
+22:45:18.461 [main] INFO  org.test.CheckoutTest.TC6(CheckoutTest.java:39)oggger - Chekout finished
+22:45:18.510 [main] INFO  org.test.CheckoutTest.TC6(CheckoutTest.java:41)oggger - Checkout Confirmed
+22:45:20.653 [main] INFO  org.test.CheckoutTest.TC7(CheckoutTest.java:54)oggger - URL Open Please enter login details
+22:45:23.161 [main] INFO  org.test.CheckoutTest.TC7(CheckoutTest.java:58)oggger - Add Items to cart
+22:45:25.302 [main] INFO  org.test.CheckoutTest.TC7(CheckoutTest.java:62)oggger - Go to Cart
+22:47:01.648 [main] WARN  org.testng.log4testng.Logger.warn(Logger.java:133)oggger - Detected a static method [org.test.Base.TearDown()]. Static configuration methods can cause  unexpected behavior.
+22:47:01.656 [main] WARN  org.testng.log4testng.Logger.warn(Logger.java:133)oggger - Detected a static method [org.test.Base.TearDown()]. Static configuration methods can cause  unexpected behavior.
+22:47:01.660 [main] WARN  org.testng.log4testng.Logger.warn(Logger.java:133)oggger - Detected a static method [org.test.Base.TearDown()]. Static configuration methods can cause  unexpected behavior.
+22:47:01.663 [main] WARN  org.testng.log4testng.Logger.warn(Logger.java:133)oggger - Detected a static method [org.test.Base.TearDown()]. Static configuration methods can cause  unexpected behavior.
+22:47:01.669 [main] WARN  org.testng.log4testng.Logger.warn(Logger.java:133)oggger - Detected a static method [org.test.Base.TearDown()]. Static configuration methods can cause  unexpected behavior.
+22:47:01.695 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  C:\Users\DELL\eclipse-workspace\SauceDemoProject\testng.xml
+
+22:47:04.442 [main] INFO  org.test.LoginTest.TC1(LoginTest.java:24)oggger - URL Open Please enter login details
+22:47:06.911 [main] INFO  org.test.LoginTest.TC1(LoginTest.java:27)oggger - Login successfully
+22:47:09.300 [main] INFO  org.test.LoginTest.TC2(LoginTest.java:38)oggger - URL Open Please enter login details
+22:47:09.772 [main] INFO  org.test.LoginTest.TC2(LoginTest.java:41)oggger - Tried login with locked out user
+22:47:12.033 [main] INFO  org.test.LoginTest.TC3(LoginTest.java:52)oggger - URL Open Please enter login details
+22:47:14.282 [main] INFO  org.test.LoginTest.TC3(LoginTest.java:55)oggger - Login details are not correct
+22:47:16.423 [main] INFO  org.test.CartTest.TC4(CartTest.java:21)oggger - URL Open Please enter login details
+22:47:18.915 [main] INFO  org.test.CartTest.TC4(CartTest.java:24)oggger - Login successfully
+22:47:18.915 [main] INFO  org.test.CartTest.TC4(CartTest.java:27)oggger - Add Items to cart
+22:47:21.072 [main] INFO  org.test.CartTest.TC4(CartTest.java:30)oggger - Go to Cart
+22:47:21.269 [main] INFO  org.test.CartTest.TC4(CartTest.java:32)oggger - Item is available in the cart
+22:47:23.432 [main] INFO  org.test.CartTest.TC5(CartTest.java:48)oggger - URL Open Please enter login details
+22:47:30.206 [main] INFO  org.test.ProductTest.TC8(ProductTest.java:21)oggger - URL Open Please enter login details
+22:47:32.745 [main] INFO  org.test.ProductTest.TC8(ProductTest.java:24)oggger - Login successfully
+22:47:39.119 [main] INFO  org.test.ProductTest.TC8(ProductTest.java:28)oggger - Product Sorted
+22:47:41.406 [main] INFO  org.test.MenuTest.TC9(MenuTest.java:25)oggger - URL Open Please enter login details
+22:47:43.800 [main] INFO  org.test.MenuTest.TC9(MenuTest.java:28)oggger - Login successfully
+22:47:48.104 [main] INFO  org.test.MenuTest.TC9(MenuTest.java:31)oggger - Logout button work properly
+22:47:50.335 [main] INFO  org.test.CheckoutTest.TC6(CheckoutTest.java:27)oggger - URL Open Please enter login details
+22:47:55.097 [main] INFO  org.test.CheckoutTest.TC6(CheckoutTest.java:31)oggger - Add Items to cart
+22:47:55.097 [main] INFO  org.test.CheckoutTest.TC6(CheckoutTest.java:33)oggger - Go to Cart
+22:47:55.299 [main] INFO  org.test.CheckoutTest.TC6(CheckoutTest.java:36)oggger - Fill the checkout info
+22:47:56.188 [main] INFO  org.test.CheckoutTest.TC6(CheckoutTest.java:39)oggger - Chekout finished
+22:47:56.230 [main] INFO  org.test.CheckoutTest.TC6(CheckoutTest.java:41)oggger - Checkout Confirmed
+22:47:58.391 [main] INFO  org.test.CheckoutTest.TC7(CheckoutTest.java:54)oggger - URL Open Please enter login details
+22:48:00.874 [main] INFO  org.test.CheckoutTest.TC7(CheckoutTest.java:58)oggger - Add Items to cart
+22:48:03.031 [main] INFO  org.test.CheckoutTest.TC7(CheckoutTest.java:62)oggger - Go to Cart
+19:44:01.452 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+19:44:01.459 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19:44:01.462 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19:44:01.462 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19:44:01.464 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19:44:01.464 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19:44:01.465 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19:44:01.466 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19:44:01.466 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19:44:01.466 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19:44:01.469 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19:44:01.470 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+19:44:01.472 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19:44:01.472 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19:44:01.473 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19:44:01.474 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19:44:01.490 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 5 ms.
+19:44:01.509 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.sortMethods() took 19 ms.
+19:44:01.511 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19:44:01.512 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+19:44:01.513 [main] WARN  org.testng.log4testng.Logger.warn(Logger.java:133)oggger - Detected a static method [org.test.Base.TearDown()]. Static configuration methods can cause  unexpected behavior.
+19:44:01.518 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19:44:01.519 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19:44:01.519 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19:44:01.520 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19:44:01.523 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19:44:01.524 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19:44:01.527 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19:44:01.527 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19:44:01.527 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19:44:01.527 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19:44:01.547 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  C:\Users\DELL\AppData\Local\Temp\testng-eclipse--1832979860\testng-customsuite.xml
+
+19:44:01.604 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] DynamicGraphHelper.createDynamicGraph() took 12 ms.
+19:44:02.642 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Time taken by org.testng.reporters.SuiteHTMLReporter@28486680: 42 ms
+19:44:02.735 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Time taken by org.testng.reporters.jq.Main@31ff1390: 93 ms
+19:44:02.753 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Time taken by org.testng.reporters.FailedReporter@3bc735b3: 18 ms
+19:44:02.769 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Time taken by org.testng.reporters.XMLReporter@41e1455d: 16 ms
+19:44:02.784 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@6fe46b62: 12 ms
+19:44:02.786 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@736ac09a: 2 ms
+19:44:02.786 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Time taken by org.testng.internal.ExitCodeListener@6ecd665: 0 ms
+19:53:29.954 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19:53:29.964 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+19:53:29.970 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19:53:29.971 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19:53:29.972 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19:53:29.972 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19:53:29.973 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19:53:29.973 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19:53:29.974 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19:53:29.974 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19:53:29.975 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19:53:29.975 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19:53:29.976 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19:53:29.976 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19:53:29.976 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19:53:29.976 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19:53:29.985 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 4 ms.
+19:53:29.992 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.sortMethods() took 7 ms.
+19:53:29.994 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+19:53:29.994 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19:53:29.995 [main] WARN  org.testng.log4testng.Logger.warn(Logger.java:133)oggger - Detected a static method [org.test.Base.TearDown()]. Static configuration methods can cause  unexpected behavior.
+19:53:29.997 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19:53:29.997 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19:53:29.997 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19:53:29.997 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19:53:29.999 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19:53:30.003 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.sortMethods() took 3 ms.
+19:53:30.004 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19:53:30.004 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19:53:30.005 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19:53:30.005 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19:53:30.017 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  C:\Users\DELL\AppData\Local\Temp\testng-eclipse-919338104\testng-customsuite.xml
+
+19:53:30.048 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] DynamicGraphHelper.createDynamicGraph() took 7 ms.
+19:53:32.713 [main] INFO  org.test.CartTest.TC4(CartTest.java:21)oggger - URL Open Please enter login details
+19:53:36.829 [main] INFO  org.test.CartTest.TC5(CartTest.java:48)oggger - URL Open Please enter login details
+19:53:41.985 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Time taken by org.testng.reporters.SuiteHTMLReporter@77ee25f1: 56 ms
+19:53:42.135 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Time taken by org.testng.reporters.jq.Main@d176a31: 148 ms
+19:53:42.171 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Time taken by org.testng.reporters.FailedReporter@29fc1a2b: 34 ms
+19:53:42.203 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Time taken by org.testng.reporters.XMLReporter@58cec85b: 32 ms
+19:53:42.229 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@2032e725: 24 ms
+19:53:42.246 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@444548a0: 17 ms
+19:53:42.247 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Time taken by org.testng.internal.ExitCodeListener@3766c667: 0 ms
+18:15:26.138 [main] INFO  org.test.LoginTest.TC1(LoginTest.java:24)oggger - URL Open Please enter login details
+18:15:28.823 [main] INFO  org.test.LoginTest.TC1(LoginTest.java:27)oggger - Login successfully
+18:15:32.275 [main] INFO  org.test.LoginTest.TC2(LoginTest.java:38)oggger - URL Open Please enter login details
+18:15:32.828 [main] INFO  org.test.LoginTest.TC2(LoginTest.java:41)oggger - Tried login with locked out user
+18:15:39.126 [main] INFO  org.test.LoginTest.TC3(LoginTest.java:52)oggger - URL Open Please enter login details
+18:15:41.630 [main] INFO  org.test.LoginTest.TC3(LoginTest.java:55)oggger - Login details are not correct
+18:15:46.644 [main] INFO  org.test.CartTest.TC4(CartTest.java:21)oggger - URL Open Please enter login details
+18:15:49.243 [main] INFO  org.test.CartTest.TC4(CartTest.java:24)oggger - Login successfully
+18:15:49.248 [main] INFO  org.test.CartTest.TC4(CartTest.java:27)oggger - Add Items to cart
+18:15:51.468 [main] INFO  org.test.CartTest.TC4(CartTest.java:30)oggger - Go to Cart
+18:15:55.191 [main] INFO  org.test.CartTest.TC5(CartTest.java:48)oggger - URL Open Please enter login details
+18:16:02.696 [main] INFO  org.test.CheckoutTest.TC6(CheckoutTest.java:27)oggger - URL Open Please enter login details
+18:16:07.340 [main] INFO  org.test.CheckoutTest.TC6(CheckoutTest.java:31)oggger - Add Items to cart
+18:16:07.341 [main] INFO  org.test.CheckoutTest.TC6(CheckoutTest.java:33)oggger - Go to Cart
+18:16:10.080 [main] INFO  org.test.CheckoutTest.TC7(CheckoutTest.java:54)oggger - URL Open Please enter login details
+18:16:12.598 [main] INFO  org.test.CheckoutTest.TC7(CheckoutTest.java:58)oggger - Add Items to cart
+18:16:14.742 [main] INFO  org.test.CheckoutTest.TC7(CheckoutTest.java:62)oggger - Go to Cart
+18:16:18.252 [main] INFO  org.test.ProductTest.TC8(ProductTest.java:21)oggger - URL Open Please enter login details
+18:16:20.867 [main] INFO  org.test.ProductTest.TC8(ProductTest.java:24)oggger - Login successfully
+18:16:27.246 [main] INFO  org.test.ProductTest.TC8(ProductTest.java:28)oggger - Product Sorted
+18:16:32.285 [main] INFO  org.test.MenuTest.TC9(MenuTest.java:25)oggger - URL Open Please enter login details
+18:16:34.778 [main] INFO  org.test.MenuTest.TC9(MenuTest.java:28)oggger - Login successfully
+18:16:36.963 [main] INFO  org.test.MenuTest.TC9(MenuTest.java:31)oggger - Logout button work properly
+18:23:17.310 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+18:23:17.317 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.sortMethods() took 2 ms.
+18:23:17.321 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+18:23:17.322 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+18:23:17.323 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+18:23:17.323 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+18:23:17.324 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+18:23:17.324 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+18:23:17.325 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+18:23:17.325 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+18:23:17.326 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+18:23:17.326 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+18:23:17.327 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+18:23:17.327 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+18:23:17.328 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+18:23:17.328 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+18:23:17.341 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 4 ms.
+18:23:17.358 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.sortMethods() took 16 ms.
+18:23:17.359 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+18:23:17.360 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+18:23:17.361 [main] WARN  org.testng.log4testng.Logger.warn(Logger.java:133)oggger - Detected a static method [org.test.Base.TearDown()]. Static configuration methods can cause  unexpected behavior.
+18:23:17.364 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+18:23:17.365 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+18:23:17.365 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+18:23:17.365 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+18:23:17.367 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+18:23:17.370 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.sortMethods() took 3 ms.
+18:23:17.372 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+18:23:17.372 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+18:23:17.373 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+18:23:17.373 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+18:23:17.382 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  C:\Users\DELL\AppData\Local\Temp\testng-eclipse-1066974495\testng-customsuite.xml
+
+18:23:17.407 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] DynamicGraphHelper.createDynamicGraph() took 5 ms.
+18:23:20.002 [main] INFO  org.test.CartTest.TC4(CartTest.java:21)oggger - URL Open Please enter login details
+18:23:22.517 [main] INFO  org.test.CartTest.TC4(CartTest.java:24)oggger - Login successfully
+18:23:22.518 [main] INFO  org.test.CartTest.TC4(CartTest.java:27)oggger - Add Items to cart
+18:23:24.635 [main] INFO  org.test.CartTest.TC4(CartTest.java:30)oggger - Go to Cart
+18:23:24.868 [main] INFO  org.test.CartTest.TC4(CartTest.java:32)oggger - Item is available in the cart
+18:23:27.272 [main] INFO  org.test.CartTest.TC5(CartTest.java:48)oggger - URL Open Please enter login details
+18:23:29.618 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Time taken by org.testng.reporters.SuiteHTMLReporter@3df978b9: 89 ms
+18:23:29.782 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Time taken by org.testng.reporters.jq.Main@319854f0: 164 ms
+18:23:29.814 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Time taken by org.testng.reporters.FailedReporter@2bfbffb2: 32 ms
+18:23:29.847 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Time taken by org.testng.reporters.XMLReporter@398474a2: 32 ms
+18:23:29.861 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@f8f56b9: 14 ms
+18:23:29.890 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@64138b0c: 29 ms
+18:23:29.890 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Time taken by org.testng.internal.ExitCodeListener@49dbaaf3: 0 ms
+18:31:27.583 [main] INFO  org.test.LoginTest.TC1(LoginTest.java:24)oggger - URL Open Please enter login details
+18:31:30.216 [main] INFO  org.test.LoginTest.TC1(LoginTest.java:27)oggger - Login successfully
+18:31:34.245 [main] INFO  org.test.LoginTest.TC2(LoginTest.java:38)oggger - URL Open Please enter login details
+18:31:35.044 [main] INFO  org.test.LoginTest.TC2(LoginTest.java:41)oggger - Tried login with locked out user
+18:31:38.308 [main] INFO  org.test.LoginTest.TC3(LoginTest.java:52)oggger - URL Open Please enter login details
+18:31:40.746 [main] INFO  org.test.LoginTest.TC3(LoginTest.java:55)oggger - Login details are not correct
+18:31:44.527 [main] INFO  org.test.CartTest.TC4(CartTest.java:21)oggger - URL Open Please enter login details
+18:31:47.093 [main] INFO  org.test.CartTest.TC4(CartTest.java:24)oggger - Login successfully
+18:31:47.094 [main] INFO  org.test.CartTest.TC4(CartTest.java:27)oggger - Add Items to cart
+18:31:49.344 [main] INFO  org.test.CartTest.TC4(CartTest.java:30)oggger - Go to Cart
+18:31:49.540 [main] INFO  org.test.CartTest.TC4(CartTest.java:32)oggger - Item is available in the cart
+18:31:52.126 [main] INFO  org.test.CartTest.TC5(CartTest.java:48)oggger - URL Open Please enter login details
+18:31:59.862 [main] INFO  org.test.CheckoutTest.TC6(CheckoutTest.java:27)oggger - URL Open Please enter login details
+18:32:04.575 [main] INFO  org.test.CheckoutTest.TC6(CheckoutTest.java:31)oggger - Add Items to cart
+18:32:04.575 [main] INFO  org.test.CheckoutTest.TC6(CheckoutTest.java:33)oggger - Go to Cart
+18:32:04.827 [main] INFO  org.test.CheckoutTest.TC6(CheckoutTest.java:36)oggger - Fill the checkout info
+18:32:05.808 [main] INFO  org.test.CheckoutTest.TC6(CheckoutTest.java:39)oggger - Chekout finished
+18:32:05.860 [main] INFO  org.test.CheckoutTest.TC6(CheckoutTest.java:41)oggger - Checkout Confirmed
+18:32:08.835 [main] INFO  org.test.CheckoutTest.TC7(CheckoutTest.java:54)oggger - URL Open Please enter login details
+18:32:11.308 [main] INFO  org.test.CheckoutTest.TC7(CheckoutTest.java:58)oggger - Add Items to cart
+18:32:13.450 [main] INFO  org.test.CheckoutTest.TC7(CheckoutTest.java:62)oggger - Go to Cart
+18:32:17.264 [main] INFO  org.test.ProductTest.TC8(ProductTest.java:21)oggger - URL Open Please enter login details
+18:32:19.811 [main] INFO  org.test.ProductTest.TC8(ProductTest.java:24)oggger - Login successfully
+18:32:26.146 [main] INFO  org.test.ProductTest.TC8(ProductTest.java:28)oggger - Product Sorted
+18:32:29.170 [main] INFO  org.test.MenuTest.TC9(MenuTest.java:25)oggger - URL Open Please enter login details
+18:32:31.669 [main] INFO  org.test.MenuTest.TC9(MenuTest.java:28)oggger - Login successfully
+18:32:36.084 [main] INFO  org.test.MenuTest.TC9(MenuTest.java:31)oggger - Logout button work properly
+18:33:45.750 [main] INFO  org.test.LoginTest.TC1(LoginTest.java:24)oggger - URL Open Please enter login details
+18:33:48.391 [main] INFO  org.test.LoginTest.TC1(LoginTest.java:27)oggger - Login successfully
+18:33:51.767 [main] INFO  org.test.LoginTest.TC2(LoginTest.java:38)oggger - URL Open Please enter login details
+18:33:52.350 [main] INFO  org.test.LoginTest.TC2(LoginTest.java:41)oggger - Tried login with locked out user
+18:33:55.351 [main] INFO  org.test.LoginTest.TC3(LoginTest.java:52)oggger - URL Open Please enter login details
+18:33:57.750 [main] INFO  org.test.LoginTest.TC3(LoginTest.java:55)oggger - Login details are not correct
+18:33:59.957 [main] INFO  org.test.CartTest.TC4(CartTest.java:21)oggger - URL Open Please enter login details
+18:34:02.580 [main] INFO  org.test.CartTest.TC4(CartTest.java:24)oggger - Login successfully
+18:34:02.583 [main] INFO  org.test.CartTest.TC4(CartTest.java:27)oggger - Add Items to cart
+18:34:04.780 [main] INFO  org.test.CartTest.TC4(CartTest.java:30)oggger - Go to Cart
+18:34:04.963 [main] INFO  org.test.CartTest.TC4(CartTest.java:32)oggger - Item is available in the cart
+18:34:07.455 [main] INFO  org.test.CartTest.TC5(CartTest.java:48)oggger - URL Open Please enter login details
+18:34:15.082 [main] INFO  org.test.CheckoutTest.TC6(CheckoutTest.java:27)oggger - URL Open Please enter login details
+18:34:19.767 [main] INFO  org.test.CheckoutTest.TC6(CheckoutTest.java:31)oggger - Add Items to cart
+18:34:19.767 [main] INFO  org.test.CheckoutTest.TC6(CheckoutTest.java:33)oggger - Go to Cart
+18:34:19.938 [main] INFO  org.test.CheckoutTest.TC6(CheckoutTest.java:36)oggger - Fill the checkout info
+18:34:20.986 [main] INFO  org.test.CheckoutTest.TC6(CheckoutTest.java:39)oggger - Chekout finished
+18:34:21.042 [main] INFO  org.test.CheckoutTest.TC6(CheckoutTest.java:41)oggger - Checkout Confirmed
+18:34:23.949 [main] INFO  org.test.CheckoutTest.TC7(CheckoutTest.java:54)oggger - URL Open Please enter login details
+18:34:26.447 [main] INFO  org.test.CheckoutTest.TC7(CheckoutTest.java:58)oggger - Add Items to cart
+18:34:28.637 [main] INFO  org.test.CheckoutTest.TC7(CheckoutTest.java:62)oggger - Go to Cart
+18:34:32.590 [main] INFO  org.test.ProductTest.TC8(ProductTest.java:21)oggger - URL Open Please enter login details
+18:34:35.039 [main] INFO  org.test.ProductTest.TC8(ProductTest.java:24)oggger - Login successfully
+18:34:41.499 [main] INFO  org.test.ProductTest.TC8(ProductTest.java:28)oggger - Product Sorted
+18:34:45.368 [main] INFO  org.test.MenuTest.TC9(MenuTest.java:25)oggger - URL Open Please enter login details
+18:34:47.908 [main] INFO  org.test.MenuTest.TC9(MenuTest.java:28)oggger - Login successfully
+18:34:52.308 [main] INFO  org.test.MenuTest.TC9(MenuTest.java:31)oggger - Logout button work properly
+18:35:59.156 [main] INFO  org.test.LoginTest.TC1(LoginTest.java:24)oggger - URL Open Please enter login details
+18:36:01.832 [main] INFO  org.test.LoginTest.TC1(LoginTest.java:27)oggger - Login successfully
+18:36:04.323 [main] INFO  org.test.LoginTest.TC2(LoginTest.java:38)oggger - URL Open Please enter login details
+18:36:05.206 [main] INFO  org.test.LoginTest.TC2(LoginTest.java:41)oggger - Tried login with locked out user
+18:36:07.698 [main] INFO  org.test.LoginTest.TC3(LoginTest.java:52)oggger - URL Open Please enter login details
+18:36:10.164 [main] INFO  org.test.LoginTest.TC3(LoginTest.java:55)oggger - Login details are not correct
+18:36:12.775 [main] INFO  org.test.CartTest.TC4(CartTest.java:21)oggger - URL Open Please enter login details
+18:36:15.300 [main] INFO  org.test.CartTest.TC4(CartTest.java:24)oggger - Login successfully
+18:36:15.300 [main] INFO  org.test.CartTest.TC4(CartTest.java:27)oggger - Add Items to cart
+18:36:17.490 [main] INFO  org.test.CartTest.TC4(CartTest.java:30)oggger - Go to Cart
+18:36:17.780 [main] INFO  org.test.CartTest.TC4(CartTest.java:32)oggger - Item is available in the cart
+18:36:20.499 [main] INFO  org.test.CartTest.TC5(CartTest.java:48)oggger - URL Open Please enter login details
+18:36:28.030 [main] INFO  org.test.CheckoutTest.TC6(CheckoutTest.java:27)oggger - URL Open Please enter login details
+18:36:32.903 [main] INFO  org.test.CheckoutTest.TC6(CheckoutTest.java:31)oggger - Add Items to cart
+18:36:32.903 [main] INFO  org.test.CheckoutTest.TC6(CheckoutTest.java:33)oggger - Go to Cart
+18:36:33.106 [main] INFO  org.test.CheckoutTest.TC6(CheckoutTest.java:36)oggger - Fill the checkout info
+18:36:34.315 [main] INFO  org.test.CheckoutTest.TC6(CheckoutTest.java:39)oggger - Chekout finished
+18:36:34.370 [main] INFO  org.test.CheckoutTest.TC6(CheckoutTest.java:41)oggger - Checkout Confirmed
+18:36:36.981 [main] INFO  org.test.CheckoutTest.TC7(CheckoutTest.java:54)oggger - URL Open Please enter login details
+18:36:39.513 [main] INFO  org.test.CheckoutTest.TC7(CheckoutTest.java:58)oggger - Add Items to cart
+18:36:41.663 [main] INFO  org.test.CheckoutTest.TC7(CheckoutTest.java:62)oggger - Go to Cart
+18:36:45.206 [main] INFO  org.test.ProductTest.TC8(ProductTest.java:21)oggger - URL Open Please enter login details
+18:36:47.735 [main] INFO  org.test.ProductTest.TC8(ProductTest.java:24)oggger - Login successfully
+18:36:54.176 [main] INFO  org.test.ProductTest.TC8(ProductTest.java:28)oggger - Product Sorted
+18:36:56.769 [main] INFO  org.test.MenuTest.TC9(MenuTest.java:25)oggger - URL Open Please enter login details
+18:36:59.318 [main] INFO  org.test.MenuTest.TC9(MenuTest.java:28)oggger - Login successfully
+18:37:03.729 [main] INFO  org.test.MenuTest.TC9(MenuTest.java:31)oggger - Logout button work properly
+18:43:08.155 [main] INFO  org.test.LoginTest.TC1(LoginTest.java:24)oggger - URL Open Please enter login details
+18:43:10.828 [main] INFO  org.test.LoginTest.TC1(LoginTest.java:27)oggger - Login successfully
+18:43:14.290 [main] INFO  org.test.LoginTest.TC2(LoginTest.java:38)oggger - URL Open Please enter login details
+18:43:15.007 [main] INFO  org.test.LoginTest.TC2(LoginTest.java:41)oggger - Tried login with locked out user
+18:43:17.975 [main] INFO  org.test.LoginTest.TC3(LoginTest.java:52)oggger - URL Open Please enter login details
+18:43:20.514 [main] INFO  org.test.LoginTest.TC3(LoginTest.java:55)oggger - Login details are not correct
+18:43:23.869 [main] INFO  org.test.CartTest.TC4(CartTest.java:21)oggger - URL Open Please enter login details
+18:43:26.741 [main] INFO  org.test.CartTest.TC4(CartTest.java:24)oggger - Login successfully
+18:43:26.747 [main] INFO  org.test.CartTest.TC4(CartTest.java:27)oggger - Add Items to cart
+18:43:28.954 [main] INFO  org.test.CartTest.TC4(CartTest.java:30)oggger - Go to Cart
+18:43:29.269 [main] INFO  org.test.CartTest.TC4(CartTest.java:32)oggger - Item is available in the cart
+18:43:33.476 [main] INFO  org.test.CartTest.TC5(CartTest.java:48)oggger - URL Open Please enter login details
+18:43:41.175 [main] INFO  org.test.CheckoutTest.TC6(CheckoutTest.java:27)oggger - URL Open Please enter login details
+18:43:45.860 [main] INFO  org.test.CheckoutTest.TC6(CheckoutTest.java:31)oggger - Add Items to cart
+18:43:45.860 [main] INFO  org.test.CheckoutTest.TC6(CheckoutTest.java:33)oggger - Go to Cart
+18:43:46.020 [main] INFO  org.test.CheckoutTest.TC6(CheckoutTest.java:36)oggger - Fill the checkout info
+18:43:46.980 [main] INFO  org.test.CheckoutTest.TC6(CheckoutTest.java:39)oggger - Chekout finished
+18:43:47.016 [main] INFO  org.test.CheckoutTest.TC6(CheckoutTest.java:41)oggger - Checkout Confirmed
+18:43:49.857 [main] INFO  org.test.CheckoutTest.TC7(CheckoutTest.java:54)oggger - URL Open Please enter login details
+18:43:52.407 [main] INFO  org.test.CheckoutTest.TC7(CheckoutTest.java:58)oggger - Add Items to cart
+18:43:54.562 [main] INFO  org.test.CheckoutTest.TC7(CheckoutTest.java:62)oggger - Go to Cart
+18:43:58.548 [main] INFO  org.test.ProductTest.TC8(ProductTest.java:21)oggger - URL Open Please enter login details
+18:44:01.069 [main] INFO  org.test.ProductTest.TC8(ProductTest.java:24)oggger - Login successfully
+18:44:07.445 [main] INFO  org.test.ProductTest.TC8(ProductTest.java:28)oggger - Product Sorted
+18:44:11.833 [main] INFO  org.test.MenuTest.TC9(MenuTest.java:25)oggger - URL Open Please enter login details
+18:44:14.367 [main] INFO  org.test.MenuTest.TC9(MenuTest.java:28)oggger - Login successfully
+18:44:18.654 [main] INFO  org.test.MenuTest.TC9(MenuTest.java:31)oggger - Logout button work properly
+18:46:26.007 [main] INFO  org.test.LoginTest.TC1(LoginTest.java:24)oggger - URL Open Please enter login details
+18:46:28.652 [main] INFO  org.test.LoginTest.TC1(LoginTest.java:27)oggger - Login successfully
+18:46:31.628 [main] INFO  org.test.LoginTest.TC2(LoginTest.java:38)oggger - URL Open Please enter login details
+18:46:32.366 [main] INFO  org.test.LoginTest.TC2(LoginTest.java:41)oggger - Tried login with locked out user
+18:46:35.311 [main] INFO  org.test.LoginTest.TC3(LoginTest.java:52)oggger - URL Open Please enter login details
+18:46:37.784 [main] INFO  org.test.LoginTest.TC3(LoginTest.java:55)oggger - Login details are not correct
+18:46:40.551 [main] INFO  org.test.CartTest.TC4(CartTest.java:21)oggger - URL Open Please enter login details
+18:46:43.042 [main] INFO  org.test.CartTest.TC4(CartTest.java:24)oggger - Login successfully
+18:46:43.045 [main] INFO  org.test.CartTest.TC4(CartTest.java:27)oggger - Add Items to cart
+18:46:45.205 [main] INFO  org.test.CartTest.TC4(CartTest.java:30)oggger - Go to Cart
+18:46:45.447 [main] INFO  org.test.CartTest.TC4(CartTest.java:32)oggger - Item is available in the cart
+18:46:48.204 [main] INFO  org.test.CartTest.TC5(CartTest.java:48)oggger - URL Open Please enter login details
+18:46:55.444 [main] INFO  org.test.CheckoutTest.TC6(CheckoutTest.java:27)oggger - URL Open Please enter login details
+18:47:00.192 [main] INFO  org.test.CheckoutTest.TC6(CheckoutTest.java:31)oggger - Add Items to cart
+18:47:00.192 [main] INFO  org.test.CheckoutTest.TC6(CheckoutTest.java:33)oggger - Go to Cart
+18:47:00.426 [main] INFO  org.test.CheckoutTest.TC6(CheckoutTest.java:36)oggger - Fill the checkout info
+18:47:01.315 [main] INFO  org.test.CheckoutTest.TC6(CheckoutTest.java:39)oggger - Chekout finished
+18:47:01.341 [main] INFO  org.test.CheckoutTest.TC6(CheckoutTest.java:41)oggger - Checkout Confirmed
+18:47:03.498 [main] INFO  org.test.CheckoutTest.TC7(CheckoutTest.java:54)oggger - URL Open Please enter login details
+18:47:06.252 [main] INFO  org.test.CheckoutTest.TC7(CheckoutTest.java:58)oggger - Add Items to cart
+18:47:08.433 [main] INFO  org.test.CheckoutTest.TC7(CheckoutTest.java:62)oggger - Go to Cart
+18:47:11.740 [main] INFO  org.test.ProductTest.TC8(ProductTest.java:21)oggger - URL Open Please enter login details
+18:47:14.323 [main] INFO  org.test.ProductTest.TC8(ProductTest.java:24)oggger - Login successfully
+18:47:20.645 [main] INFO  org.test.ProductTest.TC8(ProductTest.java:28)oggger - Product Sorted
+18:47:22.664 [main] INFO  org.test.MenuTest.TC9(MenuTest.java:25)oggger - URL Open Please enter login details
+18:47:25.324 [main] INFO  org.test.MenuTest.TC9(MenuTest.java:28)oggger - Login successfully
+18:47:29.740 [main] INFO  org.test.MenuTest.TC9(MenuTest.java:31)oggger - Logout button work properly
+18:48:07.334 [main] INFO  org.test.LoginTest.TC1(LoginTest.java:24)oggger - URL Open Please enter login details
+18:48:10.031 [main] INFO  org.test.LoginTest.TC1(LoginTest.java:27)oggger - Login successfully
+18:48:14.572 [main] INFO  org.test.LoginTest.TC2(LoginTest.java:38)oggger - URL Open Please enter login details
+18:48:15.321 [main] INFO  org.test.LoginTest.TC2(LoginTest.java:41)oggger - Tried login with locked out user
+18:48:19.753 [main] INFO  org.test.LoginTest.TC3(LoginTest.java:52)oggger - URL Open Please enter login details
+18:48:22.227 [main] INFO  org.test.LoginTest.TC3(LoginTest.java:55)oggger - Login details are not correct
+18:48:26.328 [main] INFO  org.test.CartTest.TC4(CartTest.java:21)oggger - URL Open Please enter login details
+18:48:28.897 [main] INFO  org.test.CartTest.TC4(CartTest.java:24)oggger - Login successfully
+18:48:28.905 [main] INFO  org.test.CartTest.TC4(CartTest.java:27)oggger - Add Items to cart
+18:48:31.070 [main] INFO  org.test.CartTest.TC4(CartTest.java:30)oggger - Go to Cart
+18:48:31.237 [main] INFO  org.test.CartTest.TC4(CartTest.java:32)oggger - Item is available in the cart
+18:48:34.477 [main] INFO  org.test.CartTest.TC5(CartTest.java:48)oggger - URL Open Please enter login details
+18:48:42.123 [main] INFO  org.test.CheckoutTest.TC6(CheckoutTest.java:27)oggger - URL Open Please enter login details
+18:48:46.831 [main] INFO  org.test.CheckoutTest.TC6(CheckoutTest.java:31)oggger - Add Items to cart
+18:48:46.832 [main] INFO  org.test.CheckoutTest.TC6(CheckoutTest.java:33)oggger - Go to Cart
+18:48:47.063 [main] INFO  org.test.CheckoutTest.TC6(CheckoutTest.java:36)oggger - Fill the checkout info
+18:48:48.217 [main] INFO  org.test.CheckoutTest.TC6(CheckoutTest.java:39)oggger - Chekout finished
+18:48:48.272 [main] INFO  org.test.CheckoutTest.TC6(CheckoutTest.java:41)oggger - Checkout Confirmed
+18:48:52.313 [main] INFO  org.test.CheckoutTest.TC7(CheckoutTest.java:54)oggger - URL Open Please enter login details
+18:48:54.833 [main] INFO  org.test.CheckoutTest.TC7(CheckoutTest.java:58)oggger - Add Items to cart
+18:48:57.045 [main] INFO  org.test.CheckoutTest.TC7(CheckoutTest.java:62)oggger - Go to Cart
+18:49:01.159 [main] INFO  org.test.ProductTest.TC8(ProductTest.java:21)oggger - URL Open Please enter login details
+18:49:03.735 [main] INFO  org.test.ProductTest.TC8(ProductTest.java:24)oggger - Login successfully
+18:49:10.173 [main] INFO  org.test.ProductTest.TC8(ProductTest.java:28)oggger - Product Sorted
+18:49:14.242 [main] INFO  org.test.MenuTest.TC9(MenuTest.java:25)oggger - URL Open Please enter login details
+18:49:16.657 [main] INFO  org.test.MenuTest.TC9(MenuTest.java:28)oggger - Login successfully
+18:49:21.003 [main] INFO  org.test.MenuTest.TC9(MenuTest.java:31)oggger - Logout button work properly

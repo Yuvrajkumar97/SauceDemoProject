@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite parallel="none" name="Failed suite [Suite]" verbose="0">
+  <listeners>
+    <listener class-name="org.listeners.TestListener"/>
+  </listeners>
+  <test parallel="none" name="Test(failed)" preserve-order="true">
+    <classes>
+      <class name="org.test.LoginTest">
+        <methods>
+          <include name="BrowserSetup"/>
+          <include name="TearDown"/>
+        </methods>
+      </class> <!-- org.test.LoginTest -->
+      <class name="org.test.ProductTest">
+        <methods>
+          <include name="BrowserSetup"/>
+          <include name="TearDown"/>
+        </methods>
+      </class> <!-- org.test.ProductTest -->
+      <class name="org.test.CartTest">
+        <methods>
+          <include name="TC5"/>
+          <include name="BrowserSetup"/>
+          <include name="TearDown"/>
+        </methods>
+      </class> <!-- org.test.CartTest -->
+      <class name="org.test.CheckoutTest">
+        <methods>
+          <include name="BrowserSetup"/>
+          <include name="TearDown"/>
+        </methods>
+      </class> <!-- org.test.CheckoutTest -->
+      <class name="org.test.MenuTest">
+        <methods>
+          <include name="BrowserSetup"/>
+          <include name="TearDown"/>
+        </methods>
+      </class> <!-- org.test.MenuTest -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->

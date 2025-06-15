@@ -1,0 +1,10 @@
+org\utilities\RandomData.class
+org\pages\LoginPage.class
+org\utilities\PropertiesFileHandling.class
+org\utilities\ExcelUtility.class
+org\pages\ProductPage.class
+org\pages\CartPage.class
+org\pages\CheckOutPage.class
+org\utilities\ExtentReportManager.class
+org\pages\MenuPage.class
+org\utilities\ScreenshotUtil.class
